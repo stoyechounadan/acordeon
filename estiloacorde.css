@@ -39,10 +39,12 @@ height: 100%;
 margin-left: auto;
 margin-right: auto;
 margin-top: -30px;
+    width: 5vw;
+line-height: 5vw;
 }
 
 
-#cartel, #camiseta, #libro, #ilustracion{
+#cartel, #camiseta, #libro, #poster{
     background-repeat:no-repeat;
    background-size: auto 100%;
 background-blend-mode:overlay;
@@ -65,7 +67,7 @@ background-blend-mode:overlay;
  
 }
 
-#ilustracion{
+#poster{
         background-image:url(images/esclavos.jpg);
  
 }
